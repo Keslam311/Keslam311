@@ -60,3 +60,4 @@ I'm a dedicated **Mobile App Developer** focused on crafting exceptional **Andro
 
 ![Project 1](https://img.shields.io/badge/Project_1-FF5722?style=flat-square&logo=android&logoColor=white)  
 ![Project 2](https://img.shields.io/badge/Project_2-9C27B0?style=flat-square&logo=android&logoColor=white)
+
