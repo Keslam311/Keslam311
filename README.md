@@ -3,9 +3,14 @@
 [![Mobile App Developer](https://img.shields.io/badge/Mobile_App_Developer-Android-brightgreen?style=for-the-badge)](https://developer.android.com/)
 [![Specialist](https://img.shields.io/badge/Specialist-Jetpack_Compose-orange?style=for-the-badge)](https://developer.android.com/jetpack/compose)
 
-I'm a dedicated **Mobile App Developer** focused on crafting exceptional **Android** experiences, with expertise in using **Jetpack Compose** for responsive and modern UI development. I’m passionate about delivering high-quality applications that meet client needs efficiently and scalably.
+I'm a dedicated **Mobile App Developer** focused on crafting exceptional **Android** experiences. 
+
+With expertise in **Jetpack Compose**, I specialize in creating responsive and modern UI designs. 
+
+I’m passionate about delivering high-quality applications that meet client needs efficiently and scalably.
 
 ---
+
 
 ## 🛠 Skills & Expertise
 
