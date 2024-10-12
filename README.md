@@ -1,4 +1,4 @@
-#Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eslam
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is **Eslam Khaled**
 
 [![Mobile App Developer](https://img.shields.io/badge/Mobile_App_Developer-Android-brightgreen?style=for-the-badge)](https://developer.android.com/)
 [![Specialist](https://img.shields.io/badge/Specialist-Jetpack_Compose-orange?style=for-the-badge)](https://developer.android.com/jetpack/compose)
@@ -60,4 +60,3 @@ I'm a dedicated **Mobile App Developer** focused on crafting exceptional **Andro
 
 ![Project 1](https://img.shields.io/badge/Project_1-FF5722?style=flat-square&logo=android&logoColor=white)  
 ![Project 2](https://img.shields.io/badge/Project_2-9C27B0?style=flat-square&logo=android&logoColor=white)
-
