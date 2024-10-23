@@ -23,6 +23,9 @@ I’m passionate about delivering high-quality applications that meet client nee
   [![Room](https://img.shields.io/badge/Room-E91E63?logo=android&logoColor=white&style=flat-square)](https://developer.android.com/training/data-storage/room) 
   [![Dagger-Hilt](https://img.shields.io/badge/Dagger_Hilt-FF6F00?logo=dagger&logoColor=white&style=flat-square)](https://dagger.dev/hilt/)
 
+- **Architecture Patterns**:  
+  [![MVVM](https://img.shields.io/badge/MVVM-4CAF50?style=flat-square)](https://developer.android.com/jetpack/guide)  
+
 - **Development Tools**:  
   [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white&style=flat-square)](https://developer.android.com/studio) 
   [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)](https://git-scm.com/) 
