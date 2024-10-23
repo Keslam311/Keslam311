@@ -55,19 +55,20 @@ I’m passionate about delivering high-quality applications that meet client nee
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://github.com/Keslam311">
+  <a href="https://github.com/Keslam311" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/eslam-khaled-7b70b12a0/">
+  <a href="https://www.linkedin.com/in/eslam-khaled-7b70b12a0/" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
-  <a href="mailto:eslamkhaled3034@gmail.com">
+  <a href="mailto:eslamkhaled3034@gmail.com" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
   </a>
   <a href="https://www.facebook.com/profile.php?id=100012140385861">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook">
   </a>
 </p>
+
 
 
 ---
