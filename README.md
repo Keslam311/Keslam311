@@ -11,7 +11,6 @@ I’m passionate about delivering high-quality applications that meet client nee
 
 ---
 
-
 ## 🛠 Skills & Expertise
 
 - **Languages**:  
@@ -63,6 +62,5 @@ I’m passionate about delivering high-quality applications that meet client nee
 
 ## 📂 Featured Repositories
 
-![Project 1](https://img.shields.io/badge/Project_1-FF5722?style=flat-square&logo=android&logoColor=white)  
-![Project 2](https://img.shields.io/badge/Project_2-9C27B0?style=flat-square&logo=android&logoColor=white)
-
+[![Note App](https://img.shields.io/badge/Note_App-FF5722?style=flat-square&logo=android&logoColor=white)](https://github.com/Keslam311/Note-App.git)  
+[![E-Commerce App](https://img.shields.io/badge/E_Commerce_App-9C27B0?style=flat-square&logo=android&logoColor=white)](https://github.com/Keslam311/ECommerce.git)
