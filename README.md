@@ -63,10 +63,27 @@ I’m passionate about delivering high-quality applications that meet client nee
 
 ## 📫 Let's Connect!
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Keslam311)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/eslam-khaled-7b70b12a0/)  
-[![Gmail](https://img.shields.io/badge/Gmail-Compose_Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=eslamkhaled3034@gmail.com)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/profile.php?id=100012140385861)
+<p align="left">
+  <a href="https://github.com/Keslam311">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+  </a>
+</p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/eslam-khaled-7b70b12a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>
+</p>
+<p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=eslamkhaled3034@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Compose_Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
+  </a>
+</p>
+<p align="left">
+  <a href="https://www.facebook.com/profile.php?id=100012140385861">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook">
+  </a>
+</p>
+
 
 ---
 
