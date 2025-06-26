@@ -65,7 +65,7 @@ I’m passionate about delivering high-quality applications that meet client nee
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Keslam311)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/eslam-khaled-7b70b12a0/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:eslamkhaled3034@gmail.com)  
+[![Email](https://img.shields.io/badge/Gmail-Compose_Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=eslamkhaled3034@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/profile.php?id=100012140385861)
 
 ---
